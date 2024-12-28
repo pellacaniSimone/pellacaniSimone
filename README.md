@@ -30,8 +30,7 @@
 - **Website:** [Personal Website](https://pellacanisimone-computerscientist.ddns.net/)
 
 
-## 💡 Motto
-_Innovation, automation, and continuous improvement: these are my guidelines to tackle challenges in the IT world._
+
 
 
 ---
@@ -60,5 +59,8 @@ _Innovation, automation, and continuous improvement: these are my guidelines to 
 - **GitHub side projects:** [github.com/Undersk0re](https://github.com/Undersk0re)
 - **Website:** [Personal Website](https://pellacanisimone-computerscientist.ddns.net/)
 
+---
+
+
 ## 💡 Motto
-_Innovazione, automazione e continuo miglioramento: queste sono le mie linee guida per affrontare le sfide del mondo IT._
+> The more you carry in your head, the less you have to carry on your back. [cit](https://splitlinux.org/posts/the-beast-desktop-environment.html)
