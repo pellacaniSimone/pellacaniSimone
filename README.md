@@ -55,9 +55,8 @@
 ## 📫 Contatti
 - **Email:** [pellacanisimone2017@gmail.com](mailto:pellacanisimone2017@gmail.com)
 - **LinkedIn:** [linkedin.com/in/simone-pellacani](https://www.linkedin.com/in/simone-pellacani-6ba48331a/)
-- **GitHub:** [github.com/pellacaniSimone](https://github.com/pellacaniSimone)
-- **GitHub side projects:** [github.com/Undersk0re](https://github.com/Undersk0re)
 - **Website:** [Personal Website](https://pellacanisimone-computerscientist.ddns.net/)
+- **GitHub community projects:** [github.com/Undersk0re](https://github.com/Undersk0re)
 
 ---
 
